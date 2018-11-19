@@ -5,4 +5,9 @@
     <string name="nav_header_desc">Navigation header</string>
     <string name="yogapp_nav_header_string">YogApp</string>
     <string name="action_settings">Settings</string>
+
+    <!--Inner Engineering Strings-->
+    <string name="yoga_namaskar_string">Yoga Namaskar</string>
+    <string name="preparatory_yoga_string">Preparatory Yoga</string>
+    <string name="ie_shambhavi_kria_string">Shambhavi Kria</string>
 </resources>
