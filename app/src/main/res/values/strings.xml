@@ -6,6 +6,26 @@
     <string name="yogapp_nav_header_string">YogApp</string>
     <string name="action_settings">Settings</string>
 
+    <!--Trial activity strings-->
+    <string name="trial_mudra_title_string">SHAMBHAVI MAHAMUDRA KRIYA</string>
+    <string name="start_string">Start</string>
+    <string name="cancel_string">Cancel</string>
+
+
+    <!--first step-->
+    <string name="sukha_kriya_string">Sukha Kriya</string>
+    <string name="alternate_nostril_breathing_string">Alternate nostril breathing</string>
+    <!--second step-->
+    <string name="aum_chanting_string">AUM Chanting</string>
+    <!--third step-->
+    <string name="vipareeta_swasa_string">Vipareeta Swasa</string>
+    <string name="breath_fluttering_string">Fluttering of breath</string>
+    <!--forth step-->
+    <string name="bandas_string">Bandas</string>
+    <string name="locks_string">Locks</string>
+    <!--fifth step-->
+    <string name="watching_the_breath_string">Watching the breath</string>
+
     <!--Inner Engineering Strings-->
     <string name="yoga_namaskar_string">Yoga Namaskar</string>
     <string name="preparatory_yoga_string">Preparatory Yoga</string>
