@@ -28,7 +28,7 @@
     </style>
 
     <style name="timeDisplayTextView" parent="titleTextView">
-        <item name="android:textSize">24sp</item>
+        <item name="android:textSize">30sp</item>
     </style>
 
     <style name="buttonStyle" parent="Base.TextAppearance.AppCompat.Button">
